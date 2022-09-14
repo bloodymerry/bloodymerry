@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=bloodymerry&fontSize=50)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/20503673/190186153-09be3e3d-837c-433b-86ee-b7d539913772.gif)
+![r_r648109001_6bf1614f19e4cdb2d00cf5b89e57032c48f6bd8f](https://user-images.githubusercontent.com/20503673/190187278-84caf35a-3dee-4fc3-9ca1-9241dcba5324.jpg)
 
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=bloodymerry&show_icons=true)
 
