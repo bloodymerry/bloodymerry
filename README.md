@@ -14,6 +14,6 @@
 
 <br/><br/>
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=bloodymerry&show_icons=true)
+![아이디's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodymerry&show_icons=true&theme=dracula)
 
 </div>
