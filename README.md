@@ -13,6 +13,11 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
+<br/>
+
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">
+
 <br/><br/>
 
 ![r_r648109001_6bf1614f19e4cdb2d00cf5b89e57032c48f6bd8f](https://user-images.githubusercontent.com/20503673/190187278-84caf35a-3dee-4fc3-9ca1-9241dcba5324.jpg)
