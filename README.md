@@ -21,4 +21,6 @@
 
 ![아이디's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodymerry&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodymerry&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
